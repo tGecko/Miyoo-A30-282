@@ -9,6 +9,7 @@ Here I'll collect some notes and files on the Miyoo A30
 * 16MB NOR flash chip
 * 2600 mAh battery
 * 2.8" 640x480 display, rotated 90°
+* WiFi
 
 AllWinner Tina Linux
 ```
